@@ -1,3 +1,1 @@
-# handwritten-digit-recognition
- 
-# Сервис для распознования цифр
+# Сервис для распознования цифр (handwritten digit recognition)
